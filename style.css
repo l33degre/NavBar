@@ -1,0 +1,55 @@
+.NavBar {
+    background-color: rgba(0, 0, 0, 1);
+    height: 75px;
+    width: 1920px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.Line {
+    background-color: gray;
+    height: 7px;
+    width: 1920px;
+    position: absolute;
+    top: 72px;
+    left: 0px;
+}
+#Icon {
+    position: relative;
+    padding: 5px;
+    font-size: 1px;
+}
+#Button1 {
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    position: absolute;
+    top: 15px;
+    left: 75px;
+}
+#Button2 {
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    position: absolute;
+    top: 15px;
+    left: 200px;
+}
+#Button3 {
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    position: absolute;
+    top: 15px;
+    left: 325px;
+}
+#Title {
+    color:floralwhite;
+    position: absolute;
+    font-size: 25px;
+    top: 25px;
+    left: 700px;
+}
